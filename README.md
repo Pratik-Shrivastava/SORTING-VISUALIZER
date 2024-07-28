@@ -38,6 +38,6 @@ To run the application locally, follow these steps:
 
 ## Demo
 
-Check out the live demo [here](https://Pratik-Shrivastava.github.io/Sorting_Visualizer/).
+Check out the live demo [here](https://pratik-shrivastava.github.io/SORTING-VISUALIZER/).
 
 
